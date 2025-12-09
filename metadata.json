@@ -1,0 +1,5 @@
+{
+  "name": "ViralVision",
+  "description": "AI-powered social media assistant that predicts post virality, suggests improvements, and manages drafting with auto-save functionality.",
+  "requestFramePermissions": []
+}
